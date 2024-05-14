@@ -38,7 +38,7 @@ This manifesto articulates the foundational principles and evolving objectives o
 
 1. To provide a robust framework that supports learners in achieving fluency and accuracy in English pronunciation.
 
-2. To create resources that educators can integrate seamlessly into existing curricula to facilitate the adoption of phonetic transparency.
+2. To create resources that educators can integrate seamlessly into existing curricula in order to facilitate the adoption of phonetic transparency.
 
 3. To foster global partnerships that advance the adoption and recognition of EwD as a valuable tool for language learning.
 
@@ -48,7 +48,7 @@ The EwD system incorporates carefully selected diacritical marks into standard E
 
 ### Addressing Complexity and Dependency
 
-The EwD system employs a continuous **scaffolding strategy**, introducing diacritics gradually to aid initial learning, and systematically reducing their use as learners advance. This method supports effective onboarding and ongoing development, ensuring a smooth transition to standard English while promoting confidence and independence throughout the learning process. For more details, see [Learning and Progressing]() in the EwD Booklet.
+The EwD system employs a continuous **scaffolding strategy**, introducing diacritics gradually to aid initial learning, and systematically reducing their use as learners advance. This method supports both effective onboarding and ongoing development, ensuring a smooth transition to standard English while promoting confidence and independence throughout the learning process. For more details, see [Learning and Progressing]() in the EwD Booklet.
 
 ### Customization and Flexibility
 
