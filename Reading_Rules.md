@@ -196,8 +196,6 @@ The 2 compound word dividers of EwD are as follows:
 
 [TODO: add number to note] \* This is a vestige of the time when the suffix “-en” was applied to all verbs in English.
 
-[Return to Booklet](./EwD_Booklet.md#session-sample-story-mid-part)
-
 ---
 
 © 2024 English with Diacritics. All rights reserved to Danilo F. Maia.
