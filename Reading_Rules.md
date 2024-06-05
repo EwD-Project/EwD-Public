@@ -39,14 +39,14 @@ Here are the 6 Reading Rules of EwD:
 
    > E.g.:
    >
-   > - bite, I, type, my > ⟨Long-I⟩ sound.
-   > - bit, hippie, hymn̊, syllable > ⟨Short-I⟩ sound.
+   > - bite, I, type, my > ⟨long-i⟩ sound.
+   > - bit, hippie, hymn̊, syllable > ⟨short-i⟩ sound.
 
 2. When it's part of **falling diphthongs**.
 
    > E.g.:
    >
-   > - wait, clay, vein, they > ⟨Long-A⟩ sound.
+   > - wait, clay, vein, they > ⟨long-a⟩ sound.
    > - noise, boy > ⟨“oy”⟩ sound.
 
 ## Rule No. 3 – Stressed Syllables
@@ -97,7 +97,7 @@ The Conditions mentioned are as follows:
 
 > E.g.: cute, cut, cutter, able, apple
 
-There are 2 kinds of natural vowels: **natural long** or **natural short** vowels.
+There are 2 kinds of natural vowels: **natural long** and **natural short** vowels.
 
 ### Sub-Rule 4.1 – Natural Long Vowel
 
@@ -133,11 +133,11 @@ There are 4 Scenarios for natural short vowels:
 
    > E.g.: that, when, is, not, cut
 
-3. [L3+] Vowel “i” in a syllable followed by **a “stress-magnet suffix”**. In this scenario the “i” will always sound ⟨Short-I⟩.
+3. [L3+] Vowel “i” in a syllable followed by a **stress-magnet suffix**. In this scenario the “i” will always sound ⟨short-i⟩.
 
    > E.g. (L3+): ignition, vision, musician
 
-4. [L4] Vowel in a **stressed syllable** followed by **2 or more syllables**. This phenomemon is known as the “trisyllabic laxing”.
+4. [L4] Vowel in a **stressed syllable** followed by **2 or more syllables**. This phenomemon is known as _trisyllabic laxing_.
 
    > E.g. (L4): animal, every, colony
 
@@ -176,7 +176,7 @@ The 2 compound word dividers of EwD are as follows:
 
    > E.g.: t‍̤hröugh, right, weight
 
-4. [L3+] Initial “w” before “-ho-” when “o” sounds ⟨Long-U⟩.
+4. [L3+] Initial “w” before “-ho-” when “o” sounds ⟨long-u⟩.
 
    > E.g. (L3+): whö, whöm, whöse
 
