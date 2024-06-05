@@ -3,7 +3,7 @@ title: 'Manifesto of English with Diacritics'
 author: '© 2024 English with Diacritics'
 ---
 
-© 2024 English with Diacritics. All rights reserved.
+© 2024 English with Diacritics. All rights reserved to Danilo F. Maia.
 
 # English with Diacritics: Bridging the Gap between Spelling and Pronunciation
 
@@ -68,4 +68,4 @@ As an early-stage initiative, English with Diacritics™ stands as a promising d
 
 ---
 
-© 2024 English with Diacritics. All rights reserved.
+© 2024 English with Diacritics. All rights reserved to Danilo F. Maia.
