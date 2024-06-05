@@ -9,7 +9,7 @@ author: '© 2024 English with Diacritics'
 
 (for EwD v3)
 
-Before learning the **diacritical marks** of EwD™ (hereby called only “Marks” for brevity) and the meaning of each of them, it's important to assimilate a few _core rules_. In this document we present you these rules, which we refer to as the **Reading Rules** of EwD.
+Before learning the **diacritical marks** of EwD™ (hereby called only “Marks” for brevity) and the purpose of each of them, it's important to assimilate a few _core rules_. In this document we present you these rules, which we refer to as the **Reading Rules** of EwD.
 
 Some rule items are applied only after a certain EwD Level. We affixed the [L3+] tag when the item is applied from Level 3 onwards, and the [L4] tag when the item is applied only at Level 4 (the final level). _If you are a beginner, you may skip reading these items._
 
