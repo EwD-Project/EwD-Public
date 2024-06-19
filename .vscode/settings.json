@@ -1,0 +1,12 @@
+{
+  "[markdown]": {
+    "editor.fontFamily": "Noto Sans EwD",
+    "editor.fontSize": 16,
+    "editor.letterSpacing": 0.4,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 60,
+    "editor.rulers": [50]
+  },
+  "markdown.preview.fontFamily": "Noto Sans EwD",
+  "markdown.preview.fontSize": 16
+}

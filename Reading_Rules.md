@@ -9,7 +9,7 @@ author: '© 2024 English with Diacritics'
 
 (for EwD v3)
 
-Before learning the **diacritical marks** of EwD™ (hereby called only “Marks” for brevity) and the purpose of each of them, it's important to assimilate a few _core rules_. In this document we present you these rules, which we refer to as the **Reading Rules** of EwD.
+Before learning the **diacritical marks** of EwD™ (hereby called only _marks_ for brevity) and the purpose of each of them, it's important to assimilate a few _core rules_. In this document we present you these rules, which we refer to as the **Reading Rules** of EwD.
 
 Some rule items are applied only after a certain EwD Level. We affixed the [L3+] tag when the item is applied from Level 3 onwards, and the [L4] tag when the item is applied only at Level 4 (the final level). _If you are a beginner, you may skip reading these items._
 
@@ -17,7 +17,7 @@ Here are the 6 Reading Rules of EwD:
 
 ## Rule No. 1 – The Final Silent “E”
 
-¶1 – Any single “-e” at the end of a word is silent, unless it _carries a Mark_ or it _is the sole vowel in the word_.
+¶1 – Any single “e” at the end of a word is silent, unless it _carries a Mark_ or it _is the sole vowel in the word_.
 
 > E.g. (silent): late, bike, hăve, we͡re, more, able, smo͞othe
 >
@@ -51,9 +51,7 @@ Here are the 6 Reading Rules of EwD:
 
 ## Rule No. 3 – Stressed Syllables
 
-[TODO: write note]
-
-¶1 – The first syllable of each word is **stressed by default**. That means that, in the absence of certain Conditions, such as strong Marks, the first syllable always receives the **primary stress** (S1)\*.
+¶1 – The first syllable of each word is **stressed by default**. That means that, in the absence of certain Conditions, the first syllable always receives the <a id="note1b" href="#note1">primary stress (S1)¹</a> .
 
 > E.g.: nature, excellent, infini̯te
 
@@ -63,15 +61,13 @@ The Conditions mentioned are as follows:
 
    > E.g.: about, believe, tonight
 
-2. **Strong Mark¹:** ¶1 – In the same way as vowel digraphs, strong Marks also attract the S1.
+2. **Strong Mark:** ¶1 – In the same way as vowel digraphs, <a id="note2b" href="#note2">strong marks²</a> also attract the S1.
 
    > E.g.: matūre, untĭl, anôther
 
-   ¶2 – If two syllables in a word get a strong Mark of same *tonic priority*¹, then the second one gets the S1 and the first one gets the S2 (2nd→S1 & 1st→S2).
+   ¶2 – If two syllables in a word get a strong Mark of same <a id="note3b" href="#note3">tonic priority³</a>, then the second one gets the S1 and the first one gets the S2 (2nd→S1 and 1st→S2).
 
    > E.g.: ăcadĕmic, pronŭnciātion, sĕrotōnin
-
-[TODO: write star note]
 
 3. [L3+] **Stress-magnet suffix:** Stress-magnet suffixes attract the stress to the _preceding syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
 
@@ -87,7 +83,7 @@ The Conditions mentioned are as follows:
    > - begin, complete(v), correct(v) > Last syllable gets the S1.
    > - expĕriment(v), sĕparate(v) > Last syllable gets the S2.
 
-5. [L4] **Verb with the “-en” suffix:** For verbs, the “-en” suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_\*.
+5. [L4] **Verb with the "-en" suffix:** For verbs, the "-en" suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note4b" href="#note4">historical reason⁴</a> for this phenomenon.
 
    > E.g. (L4): enlighten, forgotten, mistaken
 
@@ -143,7 +139,7 @@ There are 4 Scenarios for natural short vowels:
 
 ## Rule No. 5 – Compound Words
 
-¶1 – In cases where pronouncing _compound words_ ³ as seamless single words could lead to mispronunciations, EwD employs the so-called **compound word dividers**. They indicate that the segments of a word (called “sub-words”) _should be pronounced distinctly_, as if they were separate words.
+¶1 – In cases where pronouncing <a id="note5b" href="#note5">compound words⁵</a> as seamless single words could lead to mispronunciations, EwD employs the so-called **compound word dividers**. They indicate that the segments of a word (called “sub-words”) _should be pronounced distinctly_, as if they were separate words.
 
 ¶2 – They also guide readers on _where to place the primary stress_ of the whole word.
 
@@ -186,15 +182,17 @@ The 2 compound word dividers of EwD are as follows:
 
 ## Notes
 
-[TODO: add int. ref.]
-
-1. **Tonic priority**, abbreviated as t.p., refers to which syllable has greater or lesser stress (tonic emphasis) in each word. For more information, see [Tonic Priority]() in the Diacritics Guide.
-
-2. The **strong stress Marks** are those _positioned above vowels_, with the exception of the Ring Above.
-
-3. **Compound words** are formed by combining two or more separate words to create a new one with a _combining or unique meaning_, e.g. “toothbrush” or “mailbox”. They are very common in English.
-
-[TODO: add number to note] \* This is a vestige of the time when the suffix “-en” was applied to all verbs in English.
+<ol>
+    <li id="note1"><p>We refer to <em>primary stress syllable</em> as <b>S1</b> and <em>secondary stress syllable</em> as <b>S2</b>. <a href="#note1b">Return</a></p></li>
+    <!--  -->
+    <li id="note2"><p>Strong vowel marks, or simply, <b>strong marks</b>, are those marks positioned <em>above vowels</em>. <a href="#note2b">Return</a></p></li>
+    <!--  -->
+    <li id="note3"><p><b>Tonic priority</b> (TP) is a quantity that indicates the emphasis of each syllable in relation to the other syllables of the word. <a href="#note3b">Return</a></p></li>
+    <!--  -->
+    <li id="note4"><p>This phenomenon is a vestige of the time when the "-en" suffix was applied to all verbs in English. Other Germanic languages ​​still retain this feature. <a href="#note4b">Return</a></p></li>
+    <!--  -->
+    <li id="note5"><p><b>Compound words</b> are formed by combining two or more separate words to create a new one with a <em>combining or unique meaning</em>, e.g. “toothbrush” or “mailbox”. They are very common in English. <a href="#note5b">Return</a></p></li>
+</ol>
 
 ---
 
