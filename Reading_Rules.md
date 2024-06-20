@@ -51,50 +51,62 @@ Next are the 6 Reading Rules of EwD:
 
 ## Rule No. 3 – Stressed Syllables
 
-¶1 – The first syllable of each word is **stressed by default**. That means that, in the absence of certain Conditions, the first syllable always receives the primary stress\*.
+### Sub-Rule 3.1 – Default Stressed Syllable
+
+¶1 – The first syllable of each word is **stressed by default**. That means that, in the absence of certain conditions, the first syllable always receives the primary stress\*.
 
 > E.g.: nature, excellent, temperature, infini̯te
 
 \* For information on primary stress (S1) and secondary stress (S2), read <a id="note1b" href="#note1">Note 1</a>.
 
-The Conditions mentioned are as follows:
+¶2 – Each of the other Sub-Rules below represents one of these conditions for which the first syllable won't get the S1.
 
-1. **Strong mark:** ¶1 – <a id="note2b" href="#note2">Strong marks²</a> always attract stress to their respective syllables, leaving the first syllable unstressed or with S2, depending on the word meter.
+### Sub-Rule 3.2 – Strong Marks
 
-   > E.g.:
-   >
-   > - matūre, untĭl, anôther > First syllable gets unstressed.
-   > - correspŏnd, technolŏgical, fundamĕntal > First syllable gets S2.
+¶1 – <a id="note2b" href="#note2">Strong marks²</a> always attract stress to their respective syllables, leaving the first syllable unstressed or with S2, depending on the word meter.
 
-   ¶2 – If two syllables in a word get a strong mark of same <a id="note3b" href="#note3">tonic priority³</a>, then the second one gets the S1 and the first one gets the S2 (2nd→S1 and 1st→S2).
+> E.g.:
+>
+> - matūre, untĭl, anôther > First syllable gets unstressed.
+> - correspŏnd, technolŏgical, fundamĕntal > First syllable gets S2.
 
-   > E.g.: ăcadĕmic, pronŭnciātion, sĕrotōnin
+¶2 – If two syllables in a word get a strong mark of same <a id="note3b" href="#note3">tonic priority³</a>, then the second one gets the S1 and the first one gets the S2 (2nd→S1 and 1st→S2).
 
-2. **Vowel digraph/trigraph:** In the same way as strong marks, vowel digraphs and trigraphs, as a rule, attract the S1.
+> E.g.: ăcadĕmic, pronŭnciātion, sĕrotōnin
 
-   > E.g.: believe, about, tonight
+### Sub-Rule 3.3 – Vowel digraphs/trigraphs:
 
-3. [L3+] **Stress-magnet suffix:** Stress-magnet suffixes attract the stress to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
+In the same way as strong marks, vowel digraphs and trigraphs, as a rule, attract the S1.
 
-   > E.g. (L3+):
-   >
-   > - -ion: education, confusion
-   > - -ian: vegetarian, musician
+> E.g.: believe, about, tonight
 
-4. [L4] **Verb whose last syllable is convertible into strong:** In this case, the last syllable may **attract the S1 or the S2**. The exact pattern depends on the number of syllables of the word and on the spoken accent.
+### [L3+] Sub-Rule 3.4 – Stress-magnet suffixes:
 
-   > E.g. (L4):
-   >
-   > - begin, complete(v), correct(v) > Last syllable gets the S1.
-   > - expĕriment(v), sĕparate(v) > Last syllable gets the S2.
+Stress-magnet suffixes attract the stress to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
 
-5. [L4] **Verb with the “-en” suffix:** For verbs, the “-en” suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note4b" href="#note4">historical reason⁴</a> for this phenomenon.
+> E.g. (L3+):
+>
+> - -ion: education, confusion
+> - -ian: vegetarian, musician
 
-   > E.g. (L4): enlighten, forgotten, mistaken
+### [L4] Sub-Rule 3.5 – Verbs whose last syllable is convertible into strong:
+
+In this case, the last syllable may **attract the S1 or the S2**. The exact pattern depends on the number of syllables of the word and on the spoken accent.
+
+> E.g. (L4):
+>
+> - begin, complete(v), correct(v) > Last syllable gets the S1.
+> - expĕriment(v), sĕparate(v) > Last syllable gets the S2.
+
+### [L4] Sub-Rule 3.6 – Verb with the “-en” suffix:
+
+For verbs, the “-en” suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note4b" href="#note4">historical reason⁴</a> for this phenomenon.
+
+> E.g. (L4): enlighten, forgotten, mistaken
 
 ## Rule No. 4 – Natural Vowels
 
-¶ – Natural vowels are **single vowels** (a/e/i/y/o/u) whose pronunciation is _dictated by the letters to the right of them_. As such, they don't need the corresponding duration mark (Macron or Breve) to indicate their quality.
+¶ – Natural vowels are **simple vowels** (a/e/i/y/o/u) whose pronunciation is _dictated by the letters to the right of them_. As such, they don't need the corresponding duration mark (Macron or Breve) to indicate their quality.
 
 > E.g.: cute, cut, cutter, able, apple
 
@@ -144,8 +156,7 @@ There are 4 Scenarios for natural short vowels:
 
 ## Rule No. 5 – Compound Words
 
-¶1 – In cases where pronouncing <a id="note5b" href="#note5">compound words⁵</a> as seamless single words could lead to mispronunciations, EwD employs the so-called **compound word dividers**. They indicate that the segments of a word (called “sub-words”) _should be pronounced distinctly_, as if they were separate words.
-¶1 – In cases where pronouncing <a id="note5b" href="#note5">compound words⁵</a> as seamless single words could lead to mispronunciations, EwD employs the so-called **compound word dividers**. They indicate that the segments of a word (called “sub-words”) _should be pronounced distinctly_, as if they were separate words.
+¶1 – In cases where pronouncing <a id="note5b" href="#note5">compound words⁵</a> as seamless simple words could lead to mispronunciations, EwD employs the so-called **compound word dividers**. They indicate that the segments of a word (called “subwords”) _should be pronounced distinctly_, as if they were separate words.
 
 ¶2 – They also guide readers on _where to place the primary stress_ of the whole word.
 
@@ -153,12 +164,12 @@ The 2 compound word dividers of EwD are as follows:
 
 1. **Middle Dot** ( · )
 
-   Indicates that the primary stress of the compound word falls on **a sub-word to the left of it**. For double compound words, it indicates that the primary stress falls on _the first sub-word_.
+   Indicates that the primary stress of the compound word falls on **a subword to the left of it**. For double compound words, it indicates that the primary stress falls on _the first subword_.
 
    > E.g.: pine·apple, sôme·one, ĕve̥ry·t‍̤hing
 
 2. **Double Dot** ( ꞉ )
-   Indicates that the primary stress of the compound word falls on **the sub-word to the right of it**.
+   Indicates that the primary stress of the compound word falls on **the subword to the right of it**.
 
    > E.g.: al꞉be·it, he͡r꞉self, nône·the̬꞉less
 
