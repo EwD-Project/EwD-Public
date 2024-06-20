@@ -9,15 +9,15 @@ author: '© 2024 English with Diacritics'
 
 (for EwD v3)
 
-Before learning the **diacritical marks** of EwD™ (hereby called only _marks_ for brevity) and the purpose of each of them, it's important to assimilate a few _core rules_. In this document we present you these rules, which we refer to as the **Reading Rules** of EwD.
+Before learning the **diacritical marks** of EwD (hereby called only _marks_ for brevity) and the purpose of each of them, it's important to assimilate a few _core rules_. In this document we present these rules, which we refer to as the EwD **Reading Rules**.
 
-Some rule items are applied only after a certain EwD Level. We affixed the [L3+] tag when the item is applied from Level 3 onwards, and the [L4] tag when the item is applied only at Level 4 (the final level). _If you are a beginner, you may skip reading these items._
+Some rule items are applied only after a certain EwD level. We affixed the [L3+] tag when the item is applied at levels L3 and L4, and the [L4] tag when the item is applied only at L4 (the final level). _If you are a beginner, you may skip reading these items._
 
-Here are the 6 Reading Rules of EwD:
+Next are the 6 Reading Rules of EwD:
 
 ## Rule No. 1 – The Final Silent “E”
 
-¶1 – Any single “e” at the end of a word is silent, unless it _carries a Mark_ or it _is the sole vowel in the word_.
+¶1 – Any single “e” at the end of a word is silent, unless it _carries a mark_ or it _is the sole vowel in the word_.
 
 > E.g. (silent): late, bike, hăve, we͡re, more, able, smo͞othe
 >
@@ -33,9 +33,9 @@ Here are the 6 Reading Rules of EwD:
 
 ## Rule No. 2 – “I” and “Y” Treated the Same Way
 
-¶ – The letter “y” is treated (and therefore pronounced) exactly like the letter “i” in 2 common situations:
+¶ – The letter “y” is pronounced exactly like the letter “i” in 2 common situations:
 
-1. When it functions as a core vowel, that is, when it is the **syllable nucleus**, or
+1. When it functions as a core vowel, that is, when it is the **syllable nucleus**.
 
    > E.g.:
    >
@@ -51,25 +51,30 @@ Here are the 6 Reading Rules of EwD:
 
 ## Rule No. 3 – Stressed Syllables
 
-¶1 – The first syllable of each word is **stressed by default**. That means that, in the absence of certain Conditions, the first syllable always receives the <a id="note1b" href="#note1">primary stress (S1)¹</a> .
+¶1 – The first syllable of each word is **stressed by default**. That means that, in the absence of certain Conditions, the first syllable always receives the primary stress\*.
 
-> E.g.: nature, excellent, infini̯te
+> E.g.: nature, excellent, temperature, infini̯te
+
+\* For information on primary stress (S1) and secondary stress (S2), read <a id="note1b" href="#note1">Note 1</a>.
 
 The Conditions mentioned are as follows:
 
-1. **Vowel digraph:** Vowel digraphs (or trigraphs), as a rule, attract the S1.
+1. **Strong mark:** ¶1 – <a id="note2b" href="#note2">Strong marks²</a> always attract stress to their respective syllables, leaving the first syllable unstressed or with S2, depending on the word meter.
 
-   > E.g.: about, believe, tonight
+   > E.g.:
+   >
+   > - matūre, untĭl, anôther > First syllable gets unstressed.
+   > - correspŏnd, technolŏgical, fundamĕntal > First syllable gets S2.
 
-2. **Strong Mark:** ¶1 – In the same way as vowel digraphs, <a id="note2b" href="#note2">strong marks²</a> also attract the S1.
-
-   > E.g.: matūre, untĭl, anôther
-
-   ¶2 – If two syllables in a word get a strong Mark of same <a id="note3b" href="#note3">tonic priority³</a>, then the second one gets the S1 and the first one gets the S2 (2nd→S1 and 1st→S2).
+   ¶2 – If two syllables in a word get a strong mark of same <a id="note3b" href="#note3">tonic priority³</a>, then the second one gets the S1 and the first one gets the S2 (2nd→S1 and 1st→S2).
 
    > E.g.: ăcadĕmic, pronŭnciātion, sĕrotōnin
 
-3. [L3+] **Stress-magnet suffix:** Stress-magnet suffixes attract the stress to the _preceding syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
+2. **Vowel digraph/trigraph:** In the same way as strong marks, vowel digraphs and trigraphs, as a rule, attract the S1.
+
+   > E.g.: believe, about, tonight
+
+3. [L3+] **Stress-magnet suffix:** Stress-magnet suffixes attract the stress to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
 
    > E.g. (L3+):
    >
@@ -83,13 +88,13 @@ The Conditions mentioned are as follows:
    > - begin, complete(v), correct(v) > Last syllable gets the S1.
    > - expĕriment(v), sĕparate(v) > Last syllable gets the S2.
 
-5. [L4] **Verb with the "-en" suffix:** For verbs, the "-en" suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note4b" href="#note4">historical reason⁴</a> for this phenomenon.
+5. [L4] **Verb with the “-en” suffix:** For verbs, the “-en” suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note4b" href="#note4">historical reason⁴</a> for this phenomenon.
 
    > E.g. (L4): enlighten, forgotten, mistaken
 
 ## Rule No. 4 – Natural Vowels
 
-¶ – Natural vowels are **single (monograph) vowels** whose pronunciation is _dictated by the letters to the right of them_. As such, they don't need the corresponding duration Mark (Macron or Breve) to indicate their quality.
+¶ – Natural vowels are **single vowels** (a/e/i/y/o/u) whose pronunciation is _dictated by the letters to the right of them_. As such, they don't need the corresponding duration mark (Macron or Breve) to indicate their quality.
 
 > E.g.: cute, cut, cutter, able, apple
 
@@ -97,7 +102,7 @@ There are 2 kinds of natural vowels: **natural long** and **natural short** vowe
 
 ### Sub-Rule 4.1 – Natural Long Vowel
 
-¶1 – Natural long vowels are vowels that are pronounced long _without the need of the Macron Mark_ to indicate that.
+¶1 – Natural long vowels are vowels that are pronounced long _without the need of the Macron mark_ to indicate that.
 
 There are 2 Scenarios for natural long vowels:
 
@@ -115,7 +120,7 @@ There are 2 Scenarios for natural long vowels:
 
 ### Sub-Rule 4.2 – Natural Short Vowel
 
-¶ – Natural short vowels are the _counterparts_ of natural long vowels. They are pronounced short _without the need of the Breve Mark_ to indicate that.
+¶ – Natural short vowels are the _counterparts_ of natural long vowels. They are pronounced short _without the need of the Breve mark_ to indicate that.
 
 There are 4 Scenarios for natural short vowels:
 
@@ -139,6 +144,7 @@ There are 4 Scenarios for natural short vowels:
 
 ## Rule No. 5 – Compound Words
 
+¶1 – In cases where pronouncing <a id="note5b" href="#note5">compound words⁵</a> as seamless single words could lead to mispronunciations, EwD employs the so-called **compound word dividers**. They indicate that the segments of a word (called “sub-words”) _should be pronounced distinctly_, as if they were separate words.
 ¶1 – In cases where pronouncing <a id="note5b" href="#note5">compound words⁵</a> as seamless single words could lead to mispronunciations, EwD employs the so-called **compound word dividers**. They indicate that the segments of a word (called “sub-words”) _should be pronounced distinctly_, as if they were separate words.
 
 ¶2 – They also guide readers on _where to place the primary stress_ of the whole word.
@@ -176,20 +182,22 @@ The 2 compound word dividers of EwD are as follows:
 
    > E.g. (L3+): whö, whöm, whöse
 
-5. [L3+] Initial consonant cluster for which the first consonant is _not phonemically possible_. The first Scenario of this Rule (initial “k” before “n”) is actually a case of this one, but it's treated separately due to its commonness.
+5. [L3+] Initial consonant cluster for which the first consonant is _not phonemically possible_.\*
 
    > E.g. (L3+): psyc‍̤ho, gnome, mnemŏnic
+
+   \* The first Scenario (initial “k” before “n”) is actually a case of this one, but it's treated separately due to its commonness.
 
 ## Notes
 
 <ol>
-    <li id="note1"><p>We refer to <em>primary stress syllable</em> as <b>S1</b> and <em>secondary stress syllable</em> as <b>S2</b>. <a href="#note1b">Return</a></p></li>
+    <li id="note1"><p>We refer to <em>primary stress</em> as <b>S1</b> and <em>secondary stress</em> as <b>S2</b>. <a href="#note1b">Return</a></p></li>
     <!--  -->
-    <li id="note2"><p>Strong vowel marks, or simply, <b>strong marks</b>, are those marks positioned <em>above vowels</em>. <a href="#note2b">Return</a></p></li>
+    <li id="note2"><p><b>Strong marks</b> are the vowel marks positioned <em>above</em> the respective letter(s). <a href="#note2b">Return</a></p></li>
     <!--  -->
-    <li id="note3"><p><b>Tonic priority</b> (TP) is a quantity that indicates the emphasis of each syllable in relation to the other syllables of the word. <a href="#note3b">Return</a></p></li>
+    <li id="note3"><p><b>Tonic priority</b> (TP) is a vowel diacritic attribute that indicates the <em>relative emphasis</em> that the syllable that gets the mark will assume. <a href="#note3b">Return</a></p></li>
     <!--  -->
-    <li id="note4"><p>This phenomenon is a vestige of the time when the "-en" suffix was applied to all verbs in English. Other Germanic languages ​​still retain this feature. <a href="#note4b">Return</a></p></li>
+    <li id="note4"><p>This phenomenon is a vestige of the time when the “-en” suffix was applied to all verbs in English. Other Germanic languages ​​still retain this feature. <a href="#note4b">Return</a></p></li>
     <!--  -->
     <li id="note5"><p><b>Compound words</b> are formed by combining two or more separate words to create a new one with a <em>combining or unique meaning</em>, e.g. “toothbrush” or “mailbox”. They are very common in English. <a href="#note5b">Return</a></p></li>
 </ol>
