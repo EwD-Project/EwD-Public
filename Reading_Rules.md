@@ -51,15 +51,17 @@ Next are the 6 Reading Rules of EwD:
 
 ## Rule No. 3 – Stressed Syllables
 
+In this Rule we cover the most important aspects of reading EwD texts regarding stress (pronunciation emphasis). Please note that Sub-Rules 3.1 to 3.3 are for all proficiency levels, while items 3.4 to 3.6 are _reserved for more advanced learners_.
+
 ### Sub-Rule 3.1 – Default Stressed Syllable
 
-¶1 – The first syllable of each word is **stressed by default**. That means that, in the absence of certain conditions, the first syllable always receives the primary stress\*.
+¶1 – The default stress syllable in EwD is the **first syllable**. That means that, in the absence of certain conditions, that syllable always receives the primary stress (S1)\*.
 
 > E.g.: nature, excellent, temperature, infini̯te
 
 \* For information on primary stress (S1) and secondary stress (S2), read <a id="note1b" href="#note1">Note 1</a>.
 
-¶2 – Each of the other Sub-Rules below represents one of these conditions for which the first syllable won't get the S1.
+¶2 – Each of the other Sub-Rules below represents one of these conditions for which the first syllable may not get the S1.
 
 ### Sub-Rule 3.2 – Strong Marks
 
@@ -74,15 +76,15 @@ Next are the 6 Reading Rules of EwD:
 
 > E.g.: ăcadĕmic, pronŭnciātion, sĕrotōnin
 
-### Sub-Rule 3.3 – Vowel digraphs/trigraphs:
+### Sub-Rule 3.3 – Vowel Digraphs/Trigraphs:
 
 In the same way as strong marks, vowel digraphs and trigraphs, as a rule, attract the S1.
 
 > E.g.: believe, about, tonight
 
-### [L3+] Sub-Rule 3.4 – Stress-magnet suffixes:
+### [L3+] Sub-Rule 3.4 – Stress-Magnet Suffixes:
 
-Stress-magnet suffixes attract the stress to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
+Stress-magnet suffixes attract the S1 to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
 
 > E.g. (L3+):
 >
@@ -91,7 +93,7 @@ Stress-magnet suffixes attract the stress to the _previous syllable_. The two de
 
 ### [L4] Sub-Rule 3.5 – Verbs whose last syllable is convertible into strong:
 
-In this case, the last syllable may **attract the S1 or the S2**. The exact pattern depends on the number of syllables of the word and on the spoken accent.
+In this case, the last syllable may _receive the S1 or the S2_. The exact pattern depends on the number of syllables of the word and on the spoken accent.
 
 > E.g. (L4):
 >
@@ -199,6 +201,14 @@ The 2 compound word dividers of EwD are as follows:
 
    \* The first Scenario (initial “k” before “n”) is actually a case of this one, but it's treated separately due to its commonness.
 
+## Conclusion
+
+You have now completed the EwD Reading Rules, equipping you with essential skills to navigate English pronunciation with the help of diacritics. As a next step, consider delving into our **English Vowels Guide**, which offers an in-depth exploration of vowel phonemes and their roles in clear and accurate pronunciation.
+
+Alternatively, if you already possess a solid understanding of English vowels, you could proceed to reading our **Diacritics Guide**. This document provides detailed information on each diacritical mark, helping you to apply them effectively in reading.
+
+Both guides are valuable resources that complement the knowledge gained here, supporting your continued progress in mastering English pronunciation through the EwD system. Choose the guide that _aligns with your immediate learning goals_, and keep advancing towards greater fluency and understanding.
+
 ## Notes
 
 <ol>
@@ -206,7 +216,7 @@ The 2 compound word dividers of EwD are as follows:
     <!--  -->
     <li id="note2"><p><b>Strong marks</b> are the vowel marks positioned <em>above</em> the respective letter(s). <a href="#note2b">Return</a></p></li>
     <!--  -->
-    <li id="note3"><p><b>Tonic priority</b> (TP) is a vowel diacritic attribute that indicates the <em>relative emphasis</em> that the syllable that gets the mark will assume. <a href="#note3b">Return</a></p></li>
+    <li id="note3"><p><b>Tonic priority</b> (TP) is a vowel diacritic attribute that indicates the <em>relative emphasis</em> that the syllable that gets the mark will assume. For more information, see Tonic Priority in the EwD Diacritics Guide. <a href="#note3b">Return</a></p></li>
     <!--  -->
     <li id="note4"><p>This phenomenon is a vestige of the time when the “-en” suffix was applied to all verbs in English. Other Germanic languages ​​still retain this feature. <a href="#note4b">Return</a></p></li>
     <!--  -->
