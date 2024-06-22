@@ -9,7 +9,7 @@ author: '© 2024 English with Diacritics'
 
 (Curated for EwD v3.1)
 
-Before delving into the diacritical marks of EwD, hereby called only “marks” for brevity, it's important to assimilate a few _core rules_. In this document we present these rules, which we refer to as the EwD **Reading Rules**.
+Before delving into the diacritical marks of EwD, hereby called only “marks” for brevity, it's important to assimilate a few _core rules_. In this document we present these rules, which we refer to as the **EwD Reading Rules**.
 
 Some rule items are applied only after a certain EwD level. We affixed the [L3+] tag when the item is applied at levels L3 and L4, and the [L4] tag when the item is applied only at L4 (the final level). _If you are a beginner, you may skip reading these items._
 
@@ -39,7 +39,7 @@ Next are the 6 Reading Rules of EwD:
    > E.g.:
    >
    > - bite, I, type, my – ⟨Long-i⟩ sound.
-   > - bit, hippie, hymn̊, syllable – ⟨Short-i⟩ sound.
+   > - bit, hippie, hymn̥, sylla̬ble – ⟨Short-i⟩ sound.
 
 2. When it's part of **falling diphthongs**.
 
@@ -50,7 +50,7 @@ Next are the 6 Reading Rules of EwD:
 
 ## Rule No. 3 – Stressed Syllables
 
-In this Rule we cover the most important aspects of reading EwD texts with regard to syllabic stress. English is a stress-timed language, so mastering this trait is crucial for both pronunciation and listening.
+In this Rule we cover the most important aspects of reading EwD texts with regard to syllabic stress. English is a _stress-timed language_, so mastering this trait is crucial for both pronunciation and listening.
 
 Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency levels, items 3.4 to 3.6 are _reserved for more advanced learners_.
 
@@ -62,7 +62,7 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 \* In EwD teaching we refer to _primary stress_ as **S1** and _secondary stress_ as **S2**.
 
-¶2 – Each of the other Sub-Rules below represents one of those conditions for which the first syllable may not get the S1.
+¶2 – Each of the other Sub-Rules below represents one of the aforementioned conditions for which the first syllable may not get the S1.
 
 ### Sub-Rule 3.2 – Strong Marks
 
@@ -73,39 +73,41 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 > - matūre, untĭl, anôther – First syllable gets unstressed.
 > - correspŏnd, technolŏgical, fundamĕntal – First syllable gets S2.
 
-¶2 – If two syllables in a word get a strong mark of same <a id="note2b" href="#note2">tonic priority²</a>, then the second one gets the S1 and the first one gets the S2 (2nd→S1 and 1st→S2).
+¶2 – If two syllables in a word get a strong mark of same <a id="note2b" href="#note2">tonic priority (TP)²</a>, then the first one gets the S2 and the second one gets the S1 (1st→S2 and 2nd→S1).
 
 > E.g.: ăcadĕmic, pronŭnciātion, sĕrotōnin
 
 ### Sub-Rule 3.3 – Vowel Digraphs/Trigraphs:
 
-In the same way as strong marks, vowel digraphs and trigraphs, as a rule, attract the S1.
+In a similar way as strong marks, vowel digraphs and trigraphs, as a rule, also attract the S1. They can be seen as _implicit strong marks_.
 
-> E.g.: believe, about, tonight
+> E.g.: be<b>lieve</b>, a<b>bout</b>, to<b>night</b>
 
 ### [L3+] Sub-Rule 3.4 – Stress-Magnet Suffixes:
 
 Stress-magnet suffixes attract the S1 to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
 
-> E.g. (L3+):
+> E.g. (L3):
 >
-> - -ion: education, confusion
-> - -ian: vegetarian, musician
+> - -ion: ĕdu<b>ca</b>tion\*, con<b>fu</b>sion
+> - -ian: mu̱<b>si</b>cian, vĕge<b>ta</b>rian\*
+
+\* Note that the presence of a strong mark (other than the Acute) in another syllable _doesn't affect_ the S1 induced by the stress-magnet suffix. In such cases, the syllable with strong mark gets S2 instead.
 
 ### [L4] Sub-Rule 3.5 – Verbs whose last syllable is convertible into strong:
 
-In this case, the last syllable may _receive the S1 or the S2_. The exact pattern depends on the number of syllables of the word and on the spoken accent.
+In this case, the last syllable may _receive the S1 or the S2_. The exact pattern depends on the word meter and on the accent spoken.
 
 > E.g. (L4):
 >
 > - begin, complete(v), correct(v) – Last syllable gets the S1.
-> - expĕriment(v), sĕparate(v) – Last syllable gets the S2.
+> - expériment(v), séparate(v) – Last syllable gets the S2.
 
 ### [L4] Sub-Rule 3.6 – Verb with the “-en” suffix:
 
 For verbs, the “-en” suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note3b" href="#note3">historical reason³</a> for this phenomenon.
 
-> E.g. (L4): enlighten, forgotten, mistaken
+> E.g. (L4): forgotten, mistaken, embolden
 
 ## Rule No. 4 – Natural Vowels
 
@@ -117,7 +119,7 @@ There are 2 kinds of natural vowels: **natural long** and **natural short** vowe
 
 ### Sub-Rule 4.1 – Natural Long Vowel
 
-¶1 – Natural long vowels are vowels that are pronounced long _without the need of the Macron mark_ to indicate that.
+¶1 – Natural long vowels are vowels that are pronounced long _without the need of the Macron mark_ to indicate this.
 
 There are 2 Scenarios for natural long vowels:
 
@@ -135,7 +137,7 @@ There are 2 Scenarios for natural long vowels:
 
 ### Sub-Rule 4.2 – Natural Short Vowel
 
-¶ – Natural short vowels are the _counterparts_ of natural long vowels. They are pronounced short _without the need of the Breve mark_ to indicate that.
+¶ – Natural short vowels are the _counterparts_ of natural long vowels. They are pronounced short _without the need of the Breve mark_ to indicate this.
 
 There are 4 Scenarios for natural short vowels:
 
@@ -213,7 +215,7 @@ Both guides are valuable resources that complement the knowledge gained here, su
 ## Notes
 
 <ol>
-    <li id="note1"><p><b>Strong marks</b> are the vowel marks positioned <em>above</em> the respective letter(s). <a href="#note1b">Return</a></p></li>
+    <li id="note1"><p><b>Strong marks</b> are the vowel marks positioned <em>above</em> the respective letter(s). For more information, see Strong Marks in the EwD Diacritics Guide. <a href="#note1b">Return</a></p></li>
     <!--  -->
     <li id="note2"><p><b>Tonic priority</b> (TP) is a vowel diacritic attribute that indicates the <em>relative emphasis</em> that the syllable that gets the mark will assume. For more information, see Tonic Priority in the EwD Diacritics Guide. <a href="#note2b">Return</a></p></li>
     <!--  -->
