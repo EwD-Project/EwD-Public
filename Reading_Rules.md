@@ -56,7 +56,7 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 ### Sub-Rule 3.1 – Default Stressed Syllable
 
-¶1 – The default stress syllable in EwD is the **first syllable**. This means that, in the absence of certain conditions, the first syllable always receives the primary stress (S1)\*.
+¶1 – The default stress syllable in EwD is the **first syllable**. This means that in the absence of certain conditions the first syllable always receives the primary stress (S1)\*.
 
 > E.g.: nature, excellent, temperature, infini̯te
 
@@ -79,9 +79,15 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 ### Sub-Rule 3.3 – Vowel Digraphs/Trigraphs:
 
-In a similar way as strong marks, vowel digraphs and trigraphs, as a rule, also attract the S1. They can be seen as _implicit strong marks_.
+¶1 – In a similar way as strong marks, vowel digraphs and trigraphs, as a rule, also attract the S1. They can be seen as _implicit strong marks_.
 
-> E.g.: be<b>lieve</b>, a<b>bout</b>, to<b>night</b>
+> E.g.: bel<b>ie</b>ve, ab<b>ou</b>t, ton<b>igh</b>t
+
+¶2 – The only exceptions are the endings -ie(s/d), -ow, -ain and -ous, which tend to remain unstressed.
+
+> E.g. (all levels): stor<b>ies</b>, carr<b>ied</b>, foll<b>ow</b>
+>
+> E.g. (L3+): mount<b>ain</b>, fam<b>ous̩</b>
 
 ### [L3+] Sub-Rule 3.4 – Stress-Magnet Suffixes:
 
