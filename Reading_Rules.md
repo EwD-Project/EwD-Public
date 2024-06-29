@@ -9,7 +9,7 @@ author: '© 2024 English with Diacritics'
 
 (Curated for EwD v3.1)
 
-Before delving into the diacritical marks of EwD, hereby called only “marks” for brevity, it's important to assimilate a few _core rules_. In this document we present these rules, which we refer to as the **EwD Reading Rules**.
+Before delving into the diacritical marks of EwD, hereby called only _marks_ for brevity, it's important to assimilate a few core rules. In this document we present these rules, which we refer to as the **EwD Reading Rules**.
 
 Some rule items are applied only after a certain EwD level. We affixed the [L3+] tag when the item is applied at levels L3 and L4, and the [L4] tag when the item is applied only at L4 (the final level). _If you are a beginner, you may skip reading these items._
 
@@ -83,11 +83,11 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 > E.g.: bel<b>ie</b>ve, ab<b>ou</b>t, ton<b>igh</b>t
 
-¶2 – The only exceptions are the endings -ie(s/d), -ow, -ain and -ous, which tend to remain unstressed.
+¶2 – The only exceptions are the endings -ies, -ied, -ow and -ous, which tend to remain unstressed.
 
 > E.g. (all levels): stor<b>ies</b>, carr<b>ied</b>, foll<b>ow</b>
 >
-> E.g. (L3+): mount<b>ain</b>, fam<b>ous̩</b>
+> E.g. (L3+): fam<b>ous̩</b>
 
 ### [L3+] Sub-Rule 3.4 – Stress-Magnet Suffixes:
 
@@ -196,15 +196,15 @@ The 2 compound word dividers of EwD are as follows:
 
    > E.g.: write, wrong, wrath
 
-3. “gh” after the vowel in a syllable.
+3. “gh” in the syllable coda (after the vowel of the syllable).
 
    > E.g.: t‍̤hröugh, right, weight
 
-4. [L3+] Initial “w” before “-ho-” when “o” sounds ⟨long-u⟩.
+4. [L3+] Word “who” and derivatives.
 
    > E.g. (L3+): whö, whöm, whöse
 
-5. [L3+] Initial consonant cluster for which the first consonant is _not phonemically possible_.\*
+5. [L3+] Initial consonant cluster whose first consonant is _not phonetically natural in English_.\*
 
    > E.g. (L3+): psyc‍̤ho, gnome, mnemŏnic
 
