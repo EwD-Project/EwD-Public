@@ -1,6 +1,6 @@
 # Welcome to the EwD Public Repo
 
-Welcome to the official English with Diacritics (EwD) repository for public documents. This repository serves as a central hub for accessing and contributing to the project's open documents. Here, you'll find resources, guides, and other materials that support the mission of EwD to improve English language learning through the use of diacritics.
+Welcome to the official English with Diacritics (EwD) public repository. This repository serves as a central hub for accessing and contributing to the project's open documents. Here, you'll find resources, guides, and other materials that support the mission of EwD to improve English language learning through the use of diacritics.
 
 ## Documents
 
