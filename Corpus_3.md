@@ -5,33 +5,43 @@ author: '© 2024 English with Diacritics'
 
 # EwD Corpus No. 3
 
-    Abbreviations and Symbols:
+> **Pre-reading note:** We do not recommend viewing this page in the GitHub mobile app, as some diacritics—especially some positioned below—are not properly rendered there. For a better experience, considering accessing this page on a desktop browser.
 
-      SE: Standard English
-      L1: EwD Level 1
-      L2: EwD Level 2
-      L3: EwD Level 3
-      L4: EwD Level 4
-      –: Equal to SE (no diacritic applied)
-      <: Equal to L1 (except when used in L4, where it means equal to L3)
-      [empty cell]: Equal to the last non-empty cell.
-      n: noun
-      v: verb
-      etc: any other grammatical class
+## Appendix
 
-    Tags:
+### Abbreviations and Symbols:
 
-      GA: General American accent
-      GB: General British accent (aka Received Pronunciation – RP)
-      [Eap]: Exception, all pronunciations
-      [Esp]: Exception, some pronunciations
-      [TL]: Trisyllabic Laxing
+<!-- prettier-ignore -->
+element | description
+:-- | :--
+SE | Standard English
+L1 | EwD Level 1
+L2 | EwD Level 2
+L3 | EwD Level 3
+L4 | EwD Level 4
+– | Equal to SE (no diacritic applied)
+< | Equal to L1 (except when used in L4, where it means equal to L3)
+[empty cell] | Equal to the last non-empty cell to the left.
+n | noun
+v | verb
+etc | any other grammatical class
 
-## General comparisons
+### Tags:
+
+<!-- prettier-ignore -->
+tag | description
+:-- | :--
+GA | General American accent
+GB | General British accent (aka Received Pronunciation – RP)
+[Eap] | Exception, all pronunciations
+[Esp] | Exception, some pronunciations
+[TL] | Trisyllabic Laxing
+
+## Table – General comparisons
 
 <!-- prettier-ignore -->
 SE | L2 | tags
-:-: | :-: | :-:
+:-: | :-: | :--
 though | thōugh
 thought | tho̍ught
 through | t‍̤hröugh
@@ -71,11 +81,11 @@ fiend | fiend
 circuit | cı͡rcụi̥t
 pursuit | pu‍͜rsui̊t
 
-## Didactic Singles
+## Table – Didactic Singles
 
 <!-- prettier-ignore -->
 SE | L1 | L2 | L3 | L4 | tags
-:-: | :-: | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-: | :--
 albeit | al꞉be·it | aᷱl꞉be·it | albēi̯t |
 another | anôther | a̬nôthe͜r | < |
 compass | cômpa̬ss
@@ -102,16 +112,16 @@ worry | {wo͡rry/wôrry} | | | | {GA/GB}
 
 <!-- prettier-ignore -->
 SE | L1 | L2 | L3 | L4 | tags
-:-: | :-: | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-: | :--
 laboratory | {lăborato̯ry/labŏratory} | {lăb(o̬/o̥)rato̯ry/labŏra̬t(o̬/o̥)ry} | {lăboratòry/labŏratory} | {laboratory/labóratory} | {GA/GB} - [TL]
 process | {prŏcess/proce̯ss} | {prŏc(e̯/e̬)ss/proce̯ss} | {prŏc(è/e̬)ss/procèss} | pr{ŏ/o}cess | {GA/GB}
 rendezvous | {r‹ŏn›d(e̬/ë)z̥vöus̥/r‹ŏn›d(ẹ/ë)z̥vöus̥} | | | | {GA/GB} - [Eap]{r‹en›dezvous}
 
-## Minimal pairs
+## Table – Minimal Pairs
 
 <!-- prettier-ignore -->
 SE | L2 | tags
-:-: | :-: | :-:
+:-: | :-: | :--
 service | se͡rvice
 surface | su͡rf{ạ/a̬}ce | {GA/GB}
 ── | ── | ──
@@ -121,63 +131,63 @@ close | clos̩e
 lose | löse
 loose | lo͞os̩e
 
-## Homophones
+## Table – Homophones
 
 <!-- prettier-ignore -->
 SE | L2 | tags
-:-: | :-: | :-:
+:-: | :-: | :--
 lone | lone
 loan | loan
 ── | ──
 one | ‹wun› | [Eap]{‹one›}
 won | wôn
 
-## Homographs
+## Table – Homographs
 
 <!-- prettier-ignore -->
 SE | L2 | tags
-:-: | :-: | :-:
+:-: | :-: | :--
 read (pr.) | read
 read (p.) | rĕad
 ── | ──
 address (n.) | (a̬ddrĕss/ăddre̯ss)
 address (v.) | a̬ddrĕss
 
-## Neutralization
+## Table – Neutralization
 
 <!-- prettier-ignore -->
 SE | L2 | tags
-:-: | :-: | :-:
+:-: | :-: | :--
 another | a̬nôthe͜r
 
-## Fun
+## Table – Fun
 
 <!-- prettier-ignore -->
 SE | L1 | L2 | L3 | L4 | tags
-:-: | :-: | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-: | :--
 Edinburgh | Ĕdinbur‹ə› | Ĕdi̬nb(u̥/u̬)r‹ə› | < | Edinbur‹ə› | [Eap]{Edinbur‹gh›} - [TL]
 Lapras | Lăprạs̩
 
-## Trisyllabic Laxing [TL] pairs
+## Table – Trisyllabic Laxing Pairs [TLP]
 
 <!-- prettier-ignore -->
 SE | L1 | L2 | L3 | L4 | tags
-:-: | :-: | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-: | :--
 eat |
 edible | ĕdible | ĕd(i̬/i)bl̬e | < | – |
 
-## Sciences [Sc]
+## Table – Sciences [Sc]
 
 <!-- prettier-ignore -->
 SE | L1 | L2 | L3 | L4 | tags
-:-: | :-: | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-: | :--
 strepsirrhine | strepsirrh(i̱/i̯)ne | strepsi̬rrh(i̱/i̯)ne | –
 
-## Current highlights
+## Table – Current highlights
 
 <!-- prettier-ignore -->
 SE | L1 | L2 | L3 | L4 | tags
-:-: | :-: | :-: | :-: | :-: | :-:
+:-: | :-: | :-: | :-: | :-: | :--
 circuit | cı͡rcụi̥t | < | circụit | –
 
 ---
