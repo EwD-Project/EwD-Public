@@ -10,7 +10,7 @@ This section contains important documents and resources related to the EwD proje
 
 - [**Manifesto of EwD**](./Manifesto.md): The manifesto of English with Diacritics, detailing the mission, vision, and goals of the EwD project. It explains the philosophy behind using diacritics in English language learning.
 
-- [**EwD Corpus 3**](./corpus_3.md): This file provides a carefully selected collection of English words intended to exemplify the EwD system. It features several tables showing important or difficult words, minimal pairs, homophones, homographs, among other groups, with the aim of helping learners in understanding the usual pronunciations and distinguishing similar-sounding or similar-spelled words. The document is structured to support detailed phonetic analysis and educational use.
+- [**EwD Corpus No. 3**](./corpus_3.md): This file provides a carefully selected collection of English words intended to exemplify the EwD system. It features several tables showing important or difficult words, minimal pairs, homophones, homographs, among other groups, with the aim of helping learners in understanding the usual pronunciations and distinguishing similar-sounding or similar-spelled words. The document is structured to support detailed phonetic analysis and educational use.
 
 ## Copyright
 
