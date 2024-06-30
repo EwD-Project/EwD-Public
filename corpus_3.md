@@ -30,7 +30,7 @@ author: '© 2024 English with Diacritics'
 ## General comparisons
 
 <!-- prettier-ignore -->
-SE | L2 | Tags
+SE | L2 | tags
 :-: | :-: | :-:
 though | thōugh
 thought | tho̍ught
@@ -74,7 +74,7 @@ pursuit | pu‍͜rsui̊t
 ## Didactic Singles
 
 <!-- prettier-ignore -->
-SE | L1 | L2 | L3 | L4 | Tags
+SE | L1 | L2 | L3 | L4 | tags
 :-: | :-: | :-: | :-: | :-: | :-:
 albeit | al꞉be·it | aᷱl꞉be·it | albēi̯t |
 another | anôther | a̬nôthe͜r | < |
@@ -101,7 +101,7 @@ were | we‍͡re
 worry | {wo͡rry/wôrry} | | | | {GA/GB}
 
 <!-- prettier-ignore -->
-SE | L1 | L2 | L3 | L4 | Tags
+SE | L1 | L2 | L3 | L4 | tags
 :-: | :-: | :-: | :-: | :-: | :-:
 laboratory | {lăborato̯ry/labŏratory} | {lăb(o̬/o̥)rato̯ry/labŏra̬t(o̬/o̥)ry} | {lăboratòry/labŏratory} | {laboratory/labóratory} | {GA/GB} - [TL]
 process | {prŏcess/proce̯ss} | {prŏc(e̯/e̬)ss/proce̯ss} | {prŏc(è/e̬)ss/procèss} | pr{ŏ/o}cess | {GA/GB}
@@ -110,7 +110,7 @@ rendezvous | {r‹ŏn›d(e̬/ë)z̥vöus̥/r‹ŏn›d(ẹ/ë)z̥vöus̥}
 ## Minimal pairs
 
 <!-- prettier-ignore -->
-SE | L2 | Tags
+SE | L2 | tags
 :-: | :-: | :-:
 service | se͡rvice
 surface | su͡rf{ạ/a̬}ce | {GA/GB}
@@ -124,7 +124,7 @@ loose | lo͞os̩e
 ## Homophones
 
 <!-- prettier-ignore -->
-SE | L2 | Tags
+SE | L2 | tags
 :-: | :-: | :-:
 lone | lone
 loan | loan
@@ -135,7 +135,7 @@ won | wôn
 ## Homographs
 
 <!-- prettier-ignore -->
-SE | L2 | Tags
+SE | L2 | tags
 :-: | :-: | :-:
 read (pr.) | read
 read (p.) | rĕad
@@ -146,14 +146,14 @@ address (v.) | a̬ddrĕss
 ## Neutralization
 
 <!-- prettier-ignore -->
-SE | L2 | Tags
+SE | L2 | tags
 :-: | :-: | :-:
 another | a̬nôthe͜r
 
 ## Fun
 
 <!-- prettier-ignore -->
-SE | L1 | L2 | L3 | L4 | Tags
+SE | L1 | L2 | L3 | L4 | tags
 :-: | :-: | :-: | :-: | :-: | :-:
 Edinburgh | Ĕdinbur‹ə› | Ĕdi̬nb(u̥/u̬)r‹ə› | < | Edinbur‹ə› | [Eap]{Edinbur‹gh›} - [TL]
 Lapras | Lăprạs̩
@@ -161,7 +161,7 @@ Lapras | Lăprạs̩
 ## Trisyllabic Laxing [TL] pairs
 
 <!-- prettier-ignore -->
-SE | L1 | L2 | L3 | L4 | Tags
+SE | L1 | L2 | L3 | L4 | tags
 :-: | :-: | :-: | :-: | :-: | :-:
 eat |
 edible | ĕdible | ĕd(i̬/i)bl̬e | < | – |
@@ -169,7 +169,7 @@ edible | ĕdible | ĕd(i̬/i)bl̬e | < | – |
 ## Sciences [Sc]
 
 <!-- prettier-ignore -->
-SE | L1 | L2 | L3 | L4 | Tags
+SE | L1 | L2 | L3 | L4 | tags
 :-: | :-: | :-: | :-: | :-: | :-:
 strepsirrhine | strepsirrh(i̱/i̯)ne | strepsi̬rrh(i̱/i̯)ne | –
 
