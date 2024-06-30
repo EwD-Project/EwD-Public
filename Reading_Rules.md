@@ -7,7 +7,7 @@ author: '© 2024 English with Diacritics'
 
 # EwD Reading Rules
 
-(Curated for EwD v3.1)
+(Curated for EwD v3.2)
 
 Before delving into the diacritical marks of EwD, hereby called only _marks_ for brevity, it's important to assimilate a few core rules. In this document we present these rules, which we refer to as the **EwD Reading Rules**.
 
@@ -15,7 +15,31 @@ Some rule items are applied only after a certain EwD level. We affixed the [L3+]
 
 Next are the 6 Reading Rules of EwD:
 
-## Rule No. 1 – The Final Silent “E”
+## Index
+
+1. [**Rule No. 1 – The Final Silent E**](#rule-no-1--the-final-silent-e)
+
+2. [**Rule No. 2 – I and Y Treated the Same Way**](#rule-no-2--i-and-y-treated-the-same-way)
+
+3. [**Rule No. 3 – Stressed Syllables**](#rule-no-3--stressed-syllables)
+
+   - [Sub-Rule 3.1 – Default Stressed Syllable](#sub-rule-31--default-stressed-syllable)
+   - [Sub-Rule 3.2 – Strong Marks](#sub-rule-32--strong-marks)
+   - [Sub-Rule 3.3 – Vowel Digraphs/Trigraphs](#sub-rule-33--vowel-digraphstrigraphs)
+   - [L3+] [Sub-Rule 3.4 – Stress-Magnet Suffixes](#l3-sub-rule-34--stress-magnet-suffixes)
+   - [L4] [Sub-Rule 3.5 – Verbs with strong final syllable](#l4-sub-rule-35--verbs-with-strong-final-syllable)
+   - [L4] [Sub-Rule 3.6 – Verbs with the “-en” suffix](#l4-sub-rule-36--verbs-with-the--en-suffix)
+
+4. [**Rule No. 4 – Natural Vowels**](#rule-no-4--natural-vowels)
+
+   - [Sub-Rule 4.1 – Natural Long Vowels](#sub-rule-41--natural-long-vowels)
+   - [Sub-Rule 4.2 – Natural Short Vowels](#sub-rule-42--natural-short-vowels)
+
+5. [**Rule No. 5 – Compound Words**](#rule-no-5--compound-words)
+
+6. [**Rule No. 6 – Silent Consonants**](#rule-no-6--silent-consonants)
+
+## Rule No. 1 – The Final Silent E
 
 ¶1 – Any single “e” at the end of a word is silent, unless it _carries a mark_ or it _is the sole vowel in the word_.
 
@@ -30,7 +54,7 @@ Next are the 6 Reading Rules of EwD:
 
 > E.g.: hopes, believes, wōlves
 
-## Rule No. 2 – “I” and “Y” Treated the Same Way
+## Rule No. 2 – I and Y Treated the Same Way
 
 ¶ – The letter “y” is pronounced exactly like the letter “i” in 2 common situations:
 
@@ -77,7 +101,7 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 > E.g.: ăcadĕmic, pronŭnciātion, sĕrotōnin
 
-### Sub-Rule 3.3 – Vowel Digraphs/Trigraphs:
+### Sub-Rule 3.3 – Vowel Digraphs/Trigraphs
 
 ¶1 – In a similar way as strong marks, vowel digraphs and trigraphs, as a rule, also attract the S1. They can be seen as _implicit strong marks_.
 
@@ -89,7 +113,7 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 >
 > E.g. (L3+): fam<b>ous̩</b>
 
-### [L3+] Sub-Rule 3.4 – Stress-Magnet Suffixes:
+### [L3+] Sub-Rule 3.4 – Stress-Magnet Suffixes
 
 Stress-magnet suffixes attract the S1 to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
 
@@ -98,20 +122,20 @@ Stress-magnet suffixes attract the S1 to the _previous syllable_. The two defaul
 > - -ion: ĕdu<b>ca</b>tion\*, con<b>fu</b>sion
 > - -ian: mu̱<b>si</b>cian, vĕge<b>ta</b>rian\*
 
-\* Note that the presence of a strong mark (other than the Acute) in another syllable _doesn't affect_ the S1 induced by the stress-magnet suffix. In such cases, the syllable with strong mark gets S2 instead.
+\* Note that the presence of a strong mark (other than the Acute) in another syllable _doesn't affect_ the S1 induced by the stress-magnet suffix. In these cases, the syllable with strong mark gets S2 instead.
 
-### [L4] Sub-Rule 3.5 – Verbs whose last syllable is convertible into strong:
+### [L4] Sub-Rule 3.5 – Verbs with strong final syllable
 
-In this case, the last syllable may _receive the S1 or the S2_. The exact pattern depends on the word meter and on the accent spoken.
+For verbs whose last syllable is convertible into strong, this syllable may _receive the S1 or the S2_. The exact pattern depends on the meter of the word and on the accent spoken.
 
 > E.g. (L4):
 >
 > - begin, complete(v), correct(v) – Last syllable gets the S1.
 > - expériment(v), séparate(v) – Last syllable gets the S2.
 
-### [L4] Sub-Rule 3.6 – Verb with the “-en” suffix:
+### [L4] Sub-Rule 3.6 – Verbs with the “-en” suffix
 
-For verbs, the “-en” suffix act as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note3b" href="#note3">historical reason³</a> for this phenomenon.
+For verbs with the “-en” suffix, this element acts as a _stress-magnet suffix_, and therefore the _penultimate syllable gets the S1_. There's a <a id="note3b" href="#note3">historical reason³</a> for this phenomenon.
 
 > E.g. (L4): forgotten, mistaken, embolden
 
@@ -123,7 +147,7 @@ For verbs, the “-en” suffix act as a _stress-magnet suffix_, and therefore t
 
 There are 2 kinds of natural vowels: **natural long** and **natural short** vowels.
 
-### Sub-Rule 4.1 – Natural Long Vowel
+### Sub-Rule 4.1 – Natural Long Vowels
 
 ¶1 – Natural long vowels are vowels that are pronounced long _without the need of the Macron mark_ to indicate this.
 
@@ -141,7 +165,7 @@ There are 2 Scenarios for natural long vowels:
 
 > E.g.: axe, exit, boxing
 
-### Sub-Rule 4.2 – Natural Short Vowel
+### Sub-Rule 4.2 – Natural Short Vowels
 
 ¶ – Natural short vowels are the _counterparts_ of natural long vowels. They are pronounced short _without the need of the Breve mark_ to indicate this.
 
