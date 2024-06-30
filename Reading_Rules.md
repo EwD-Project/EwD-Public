@@ -84,7 +84,7 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 > E.g.: nature, excellent, temperature, infini̯te
 
-\* In EwD teaching we refer to _primary stress_ as **S1** and _secondary stress_ as **S2**.
+\* In EwD didactics we refer to _primary stress_ as **S1** and _secondary stress_ as **S2**.
 
 ¶2 – Each of the other Sub-Rules below represents one of the aforementioned conditions for which the first syllable may not get the S1.
 
@@ -238,7 +238,7 @@ The 2 compound word dividers of EwD are as follows:
 
 You have now completed the EwD Reading Rules, equipping you with essential skills to navigate English pronunciation with the help of diacritics. As a next step, consider delving into our **English Phonemes Guide**, which offers an in-depth exploration of English phonemes and their roles in clear and accurate pronunciation.
 
-Alternatively, if you already possess a solid understanding of English vowels, you could proceed to reading our **Diacritics Guide**. This document provides detailed information on each diacritical mark, helping you to apply them effectively in reading.
+Alternatively, if you already possess a solid understanding of English vowels, you could proceed to reading our **Diacritics Guide**. This document provides detailed information on each diacritical mark of EwD, helping you to apply them effectively in reading.
 
 Both guides are valuable resources that complement the knowledge gained here, supporting your continued progress in mastering English pronunciation through the EwD system. Choose the guide that _aligns with your immediate learning goals_, and keep advancing towards greater fluency and understanding.
 
