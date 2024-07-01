@@ -13,7 +13,7 @@ Before delving into the diacritical marks of EwD, hereby called only _marks_ for
 
 Some rule items are applied only after a certain EwD level. We affixed the [L3+] tag when the item is applied at levels L3 and L4, and the [L4] tag when the item is applied only at L4 (the final level). _If you are a beginner, you may skip reading these items._
 
-Next are the 6 Reading Rules of EwD:
+Next are the six Reading Rules of EwD:
 
 ## Index
 
@@ -80,7 +80,7 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 ### Sub-Rule 3.1 – Default Stressed Syllable
 
-¶1 – The default stress syllable in EwD is the **first syllable**. This means that in the absence of certain conditions the first syllable always receives the primary stress (S1)\*.
+¶1 – The default stressed syllable in EwD is the **first syllable**. This means that in the absence of certain conditions the first syllable always receives the primary stress (S1)\*.
 
 > E.g.: nature, excellent, temperature, infini̯te
 
@@ -90,11 +90,11 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 ### Sub-Rule 3.2 – Strong Marks
 
-¶1 – <a id="note1b" href="#note1">Strong marks¹</a> always attract stress to their respective syllables, leaving the first syllable unstressed or with S2, depending on the word meter.
+¶1 – <a id="note1b" href="#note1">Strong marks¹</a> always attract stress to their respective syllables, leaving the first syllable unstressed or with S2, depending on the meter of the word.
 
 > E.g.:
 >
-> - matūre, untĭl, anôther – First syllable gets unstressed.
+> - matūre, untĭl, anôther – First syllable becomes unstressed.
 > - correspŏnd, technolŏgical, fundamĕntal – First syllable gets S2.
 
 ¶2 – If two syllables in a word get a strong mark of same <a id="note2b" href="#note2">tonic priority (TP)²</a>, then the first one gets the S2 and the second one gets the S1 (1st→S2 and 2nd→S1).
@@ -115,7 +115,7 @@ Please note that, while Sub-Rules 3.1 to 3.3 are intended for all proficiency le
 
 ### [L3+] Sub-Rule 3.4 – Stress-Magnet Suffixes
 
-Stress-magnet suffixes attract the S1 to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
+Stress-magnet suffixes always attract the S1 to the _previous syllable_. The two default stress-magnet suffixes in EwD are “-ion” and “-ian”.
 
 > E.g. (L3):
 >

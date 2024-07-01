@@ -1,11 +1,11 @@
 ---
-title: 'EwD Corpus No. 3'
+title: 'EwD Corpus 3'
 author: '© 2024 English with Diacritics'
 ---
 
-# EwD Corpus No. 3
+# EwD Corpus 3
 
-> **Pre-reading note:** We do not recommend viewing this page in the GitHub mobile app, as some diacritics—especially some positioned below—are not properly rendered there. For a better experience, considering accessing this page on a desktop browser.
+> **Pre-reading note:** We do not recommend viewing this page in the GitHub mobile app, as some diacritics—especially those positioned below—often do not render properly there. For a better experience, consider accessing this page on a desktop browser.
 
 ## Appendix
 
